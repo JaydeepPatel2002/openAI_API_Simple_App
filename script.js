@@ -43,7 +43,7 @@ function CallAPI(input)
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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'
+            'Authorization': 'Bearer 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'
 
         },
         body: JSON.stringify({
